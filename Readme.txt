@@ -1,0 +1,1 @@
+This Code will automatically send the clipboard content to specified email address. For more details on how to use this code kindly see http://aaditya.info/blog/2012/08/clipboard-to-email-python-code/
